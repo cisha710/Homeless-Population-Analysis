@@ -1,4 +1,5 @@
-Title: A Comparative Study of Homeless Populations in Texas and California
+# A Comparative Study of Homeless Populations in Texas and California
+
 Team: Isha Chaware, Alexandra Turner, Nancy Ulloa, Arlie Alcid, Beauty Simora
 
 Motivation: 
