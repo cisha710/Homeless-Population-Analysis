@@ -1,6 +1,6 @@
 # A Comparative Study of Homeless Populations in Texas and California
 
-Team: Isha Chaware, Alexandra Turner, Nancy Ulloa, Arlie Alcid, Beauty Simora
+Isha Chaware
 
 Motivation: 
 Homelessness is a complex and pressing issue that affects millions of individuals and families in the United States. To better understand the evolving nature of homelessness and formulate effective policies and strategies, a comprehensive decadal survey is proposed to examine the impact of various factors on homelessness in the USA from 2013 to 2020. This survey will provide crucial insights into the causes and dynamics of homelessness, enabling policymakers, researchers, and service providers to develop evidence-based interventions and policies.
